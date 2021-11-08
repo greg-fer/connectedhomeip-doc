@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_chlorine_concentration_measurement_1_1_attributes_1_1_max_measured_value =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_chlorine_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a8c0c628258c26c7bf49c7b1289c9552c", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_chlorine_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#ae0def16fe5123ace61cad9252c19794b", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_chlorine_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a4367d13633a9df648a8765c870062e59", null ]
+];

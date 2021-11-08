@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_power_profile_1_1_commands_1_1_get_power_profile_price_extended =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_power_profile_1_1_commands_1_1_get_power_profile_price_extended.html#a571a6676d8a0ea307d2eaf4594412be2", null ]
+];

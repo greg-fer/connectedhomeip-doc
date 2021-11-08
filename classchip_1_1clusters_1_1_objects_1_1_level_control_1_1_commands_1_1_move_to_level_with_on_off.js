@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_level_control_1_1_commands_1_1_move_to_level_with_on_off =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_level_control_1_1_commands_1_1_move_to_level_with_on_off.html#ac93ba063a54ff7cb2a55bfca45ec582b", null ]
+];

@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_pir_unoccupied_to_occupied_threshold =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_pir_unoccupied_to_occupied_threshold.html#ac2209c47e2c676c0f07a435202211d8f", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_pir_unoccupied_to_occupied_threshold.html#a32aa83d44b7a44d8b40340a5e8865669", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_pir_unoccupied_to_occupied_threshold.html#a14fd7ab15a4079e24795fe3a11697279", null ]
+];

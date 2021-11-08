@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_device_temp_alarm_mask =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_device_temp_alarm_mask.html#a5fb7a3fe97fd888688940058586b5414", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_device_temp_alarm_mask.html#a1f0dc17e5a8b0e1c6496836ffc0a2522", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_device_temp_alarm_mask.html#a1fa1724a8de61e21da749bd4aa731e9e", null ]
+];

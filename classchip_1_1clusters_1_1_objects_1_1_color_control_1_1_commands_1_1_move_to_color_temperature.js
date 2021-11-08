@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_color_control_1_1_commands_1_1_move_to_color_temperature =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_color_control_1_1_commands_1_1_move_to_color_temperature.html#a794ea195ff475d8cd40848c3cc6db2e0", null ]
+];

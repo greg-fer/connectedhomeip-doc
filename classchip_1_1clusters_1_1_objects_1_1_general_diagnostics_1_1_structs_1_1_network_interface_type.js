@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_general_diagnostics_1_1_structs_1_1_network_interface_type =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_general_diagnostics_1_1_structs_1_1_network_interface_type.html#ab1613d730affdcfe93f04e031746fc9e", null ]
+];

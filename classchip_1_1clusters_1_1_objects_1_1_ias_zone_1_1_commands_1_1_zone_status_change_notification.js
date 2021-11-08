@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_ias_zone_1_1_commands_1_1_zone_status_change_notification =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_ias_zone_1_1_commands_1_1_zone_status_change_notification.html#afa0928f9be09aa6e15a2f6d2f583b520", null ]
+];

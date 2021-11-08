@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_operational_credentials_1_1_commands_1_1_add_trusted_root_certificate =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_operational_credentials_1_1_commands_1_1_add_trusted_root_certificate.html#a1f36456f415c7472304b5287862da004", null ]
+];

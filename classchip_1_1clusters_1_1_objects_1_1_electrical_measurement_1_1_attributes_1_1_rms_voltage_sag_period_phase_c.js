@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_rms_voltage_sag_period_phase_c =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_rms_voltage_sag_period_phase_c.html#a36e6350fd535a013035b07f8506926f9", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_rms_voltage_sag_period_phase_c.html#a06abb7756934727fd658dae61272f9df", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_rms_voltage_sag_period_phase_c.html#a34b4c17f2d940d1bc3306ad1e30a32d4", null ]
+];

@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_phase_harmonic_current_multiplier =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_phase_harmonic_current_multiplier.html#a7d381b86e00748dce28d0090e5c81db4", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_phase_harmonic_current_multiplier.html#ae8795f72683d59b056e8585c4ded199e", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_phase_harmonic_current_multiplier.html#a6b163dbd52ed4e62cfe0fcf0f3a52d8a", null ]
+];

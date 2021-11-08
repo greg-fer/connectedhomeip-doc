@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_color_control_1_1_commands_1_1_move_to_hue_and_saturation =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_color_control_1_1_commands_1_1_move_to_hue_and_saturation.html#ae81d659571e6e22c4d0323c3c3513bc4", null ]
+];

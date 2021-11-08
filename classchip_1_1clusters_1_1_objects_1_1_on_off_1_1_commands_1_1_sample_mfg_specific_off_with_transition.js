@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_on_off_1_1_commands_1_1_sample_mfg_specific_off_with_transition =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_on_off_1_1_commands_1_1_sample_mfg_specific_off_with_transition.html#a620b225d0c4e1253256d042e1ce61e5d", null ]
+];

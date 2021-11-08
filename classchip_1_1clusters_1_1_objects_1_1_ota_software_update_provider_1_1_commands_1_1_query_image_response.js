@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_ota_software_update_provider_1_1_commands_1_1_query_image_response =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_ota_software_update_provider_1_1_commands_1_1_query_image_response.html#a07f9796df23a86167ab89e810233aff2", null ]
+];

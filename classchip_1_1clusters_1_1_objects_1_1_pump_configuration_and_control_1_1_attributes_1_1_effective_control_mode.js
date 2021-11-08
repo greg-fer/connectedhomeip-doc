@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_pump_configuration_and_control_1_1_attributes_1_1_effective_control_mode =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_pump_configuration_and_control_1_1_attributes_1_1_effective_control_mode.html#a0e52eadb54be47fc0dae9a764277579f", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_pump_configuration_and_control_1_1_attributes_1_1_effective_control_mode.html#a690f2fc7a56b6936333f01fa949b972e", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_pump_configuration_and_control_1_1_attributes_1_1_effective_control_mode.html#a27203df6df7666e7d3554efadabe822d", null ]
+];

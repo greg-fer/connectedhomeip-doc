@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_network_commissioning_1_1_structs_1_1_thread_interface_scan_result =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_network_commissioning_1_1_structs_1_1_thread_interface_scan_result.html#ad9c0dfd4b8b3694ad26ebb8af01dda97", null ]
+];

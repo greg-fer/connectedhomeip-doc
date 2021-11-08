@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_ias_zone_1_1_commands_1_1_initiate_normal_operation_mode_response =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_ias_zone_1_1_commands_1_1_initiate_normal_operation_mode_response.html#a35f55c9d1a442e696cf5e6a620502071", null ]
+];

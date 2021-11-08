@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_max_temp_experienced =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_max_temp_experienced.html#ab61f6ec6911e96c7a5541fa69e24740b", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_max_temp_experienced.html#a8eb53c6c7f70f4be0f331c9cf15b8a1d", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_max_temp_experienced.html#a24f2b6636d44fb1e6b490e2841a690e4", null ]
+];

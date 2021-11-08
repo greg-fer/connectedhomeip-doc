@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_total_coliform_bacteria_concentration_measurement_1_1_attributes_1_1_tolerance =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_total_coliform_bacteria_concentration_measurement_1_1_attributes_1_1_tolerance.html#a4e913343f7d97db5b4005be3e86e0056", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_total_coliform_bacteria_concentration_measurement_1_1_attributes_1_1_tolerance.html#a231f56d06b577e3f5a2e549da3c34483", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_total_coliform_bacteria_concentration_measurement_1_1_attributes_1_1_tolerance.html#af8bc46935734868b349e726a7c50c121", null ]
+];

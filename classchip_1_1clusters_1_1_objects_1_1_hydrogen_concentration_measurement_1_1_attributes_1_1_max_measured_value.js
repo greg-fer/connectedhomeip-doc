@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_hydrogen_concentration_measurement_1_1_attributes_1_1_max_measured_value =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_hydrogen_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a677a67673f47a62f31238ac88aec47f4", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_hydrogen_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a95981ecbe45de24f15862dcb4dc55022", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_hydrogen_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#aeec212390099a04d063a1e9483e67d30", null ]
+];

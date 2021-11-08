@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_over_temp_total_dwell =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_over_temp_total_dwell.html#a170b3082e85c5351da031c9272c80d0b", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_over_temp_total_dwell.html#a6c5beb50a786613477ff7aa7f7a3c9c1", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_over_temp_total_dwell.html#a65bc378ed6df9369334ea3157115d00b", null ]
+];

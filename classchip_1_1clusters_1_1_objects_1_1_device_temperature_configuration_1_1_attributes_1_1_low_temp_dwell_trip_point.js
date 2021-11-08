@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_low_temp_dwell_trip_point =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_low_temp_dwell_trip_point.html#aebe474f345c203f493364d5cf64deb94", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_low_temp_dwell_trip_point.html#af94349f792e34bd0c0a81471db57b3e1", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_low_temp_dwell_trip_point.html#a75e4514d0a3deb694554b66224e39efa", null ]
+];

@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_power_profile_1_1_commands_1_1_get_overall_schedule_price_response =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_power_profile_1_1_commands_1_1_get_overall_schedule_price_response.html#aed09a69f4e3a9d9f2d1a68b8c7635741", null ]
+];

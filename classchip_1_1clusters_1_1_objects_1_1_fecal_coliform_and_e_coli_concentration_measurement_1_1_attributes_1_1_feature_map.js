@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_fecal_coliform_and_e_coli_concentration_measurement_1_1_attributes_1_1_feature_map =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_fecal_coliform_and_e_coli_concentration_measurement_1_1_attributes_1_1_feature_map.html#a2604e0e55cd3cb1f75bd23f85b072cc0", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_fecal_coliform_and_e_coli_concentration_measurement_1_1_attributes_1_1_feature_map.html#a07387ea44209930bd22ad6dc7432a564", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_fecal_coliform_and_e_coli_concentration_measurement_1_1_attributes_1_1_feature_map.html#a4fbcfcb38fe67041fce45620d2ed5a13", null ]
+];

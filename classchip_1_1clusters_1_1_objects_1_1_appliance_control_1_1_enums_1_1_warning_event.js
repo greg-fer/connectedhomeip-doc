@@ -1,0 +1,8 @@
+var classchip_1_1clusters_1_1_objects_1_1_appliance_control_1_1_enums_1_1_warning_event =
+[
+    [ "kWarning1OverallPowerAboveAvailablePowerLevel", "classchip_1_1clusters_1_1_objects_1_1_appliance_control_1_1_enums_1_1_warning_event.html#a009c9980cd1e2b61dfda6926dd9a1197", null ],
+    [ "kWarning2OverallPowerAbovePowerThresholdLevel", "classchip_1_1clusters_1_1_objects_1_1_appliance_control_1_1_enums_1_1_warning_event.html#adb4184ddbb1a9fa9e3753a0161708dd1", null ],
+    [ "kWarning3OverallPowerBackBelowTheAvailablePowerLevel", "classchip_1_1clusters_1_1_objects_1_1_appliance_control_1_1_enums_1_1_warning_event.html#a56e774d0de48b292da9bed435a7d8c09", null ],
+    [ "kWarning4OverallPowerBackBelowThePowerThresholdLevel", "classchip_1_1clusters_1_1_objects_1_1_appliance_control_1_1_enums_1_1_warning_event.html#a697584cf361cb5aaa4319fa1840adecf", null ],
+    [ "kWarning5OverallPowerWillBePotentiallyAboveAvailablePowerLevelIfTheApplianceStarts", "classchip_1_1clusters_1_1_objects_1_1_appliance_control_1_1_enums_1_1_warning_event.html#a6f1e9d1e2d455cc7d63af3e680bdf6d4", null ]
+];

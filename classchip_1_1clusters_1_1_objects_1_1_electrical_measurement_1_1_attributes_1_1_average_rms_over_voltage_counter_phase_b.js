@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_average_rms_over_voltage_counter_phase_b =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_average_rms_over_voltage_counter_phase_b.html#ab7687acd4991402801513bb18cdd4997", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_average_rms_over_voltage_counter_phase_b.html#a94d2834a1435b07f86f183cce313ff1c", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_average_rms_over_voltage_counter_phase_b.html#aa9946d526deff16e6fda8e3f63b6bca7", null ]
+];

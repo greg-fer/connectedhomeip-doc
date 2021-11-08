@@ -1,0 +1,48 @@
+var _txt_fields_8h =
+[
+    [ "TxtFieldInfo", "structchip_1_1_dnssd_1_1_internal_1_1_txt_field_info.html", "structchip_1_1_dnssd_1_1_internal_1_1_txt_field_info" ],
+    [ "TxtFieldKey", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3", [
+      [ "kUnknown", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3a25c2dc47991b3df171ed5192bcf70390", null ],
+      [ "kLongDiscriminator", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3adde779a1ac358eff703d407486e50bfe", null ],
+      [ "kVendorProduct", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3a7f817f3bf5af50a1cef5ce1bdd26be92", null ],
+      [ "kAdditionalPairing", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3aad3efbf3632f9478caaa7d218d993a48", null ],
+      [ "kCommissioningMode", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3a928f5664c63de794539ce5406feacdcf", null ],
+      [ "kDeviceType", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3ae470ac522bb48438322fd627e6bc8e77", null ],
+      [ "kDeviceName", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3a4b15da3b4bce47b0994ebb7650d6b1dd", null ],
+      [ "kRotatingDeviceId", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3aa4f723a7159866aea7096ef0ec82ae6f", null ],
+      [ "kPairingInstruction", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3a013b59bd359429d979f95a59ad7c1960", null ],
+      [ "kPairingHint", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3a60487651844d1d53e2c65a756715a267", null ],
+      [ "kMrpRetryIntervalIdle", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3a8735c85feb7cd5174cdbcabe22dcba60", null ],
+      [ "kMrpRetryIntervalActive", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3a7a04611cf4f3db3170b2daa32754c2fd", null ],
+      [ "kTcpSupport", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3a580edf7aff87231510cc1f5c4ffe1481", null ],
+      [ "kCount", "_txt_fields_8h.html#a482c4f34003ee8c3503665c6d8f9c7a3a5a162d352f3b3603e03fc9b2f043fb40", null ]
+    ] ],
+    [ "TxtKeyUse", "_txt_fields_8h.html#a714e351667017327e184481f51d3d9a8", [
+      [ "kNone", "_txt_fields_8h.html#a714e351667017327e184481f51d3d9a8a35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kCommon", "_txt_fields_8h.html#a714e351667017327e184481f51d3d9a8a4a8a926ca6c8454f8249deec51b47e66", null ],
+      [ "kCommission", "_txt_fields_8h.html#a714e351667017327e184481f51d3d9a8a6ed412b3e5a98a2e32cedaf8095d31d6", null ]
+    ] ],
+    [ "FillNodeDataFromTxt", "_txt_fields_8h.html#aaf2174eb49a4cb64f4803e49c1cbbc41", null ],
+    [ "FillNodeDataFromTxt", "_txt_fields_8h.html#a1abc1bf5ac347af3408500e254bfd8b9", null ],
+    [ "KeyCount", "_txt_fields_8h.html#af9e5e9c377fdfccaa69e20a6e8147f8a", null ],
+    [ "KeySize", "_txt_fields_8h.html#a4058aedc88a4ff4a0271bbc5b6738321", null ],
+    [ "MaxKeyLen", "_txt_fields_8h.html#a1f89cc243eceaade78f146cae7c32b0f", null ],
+    [ "MaxValueLen", "_txt_fields_8h.html#a980a361d0759715df85fc113038bafd3", null ],
+    [ "TotalKeyLen", "_txt_fields_8h.html#a10dd9e584c91a35542511e2a96e303eb", null ],
+    [ "TotalValueLen", "_txt_fields_8h.html#aae6132cebc890bd5ef0a82d0339d4fe1", null ],
+    [ "ValSize", "_txt_fields_8h.html#acf9e46e271ee1c7c0d90cd2439344f4d", null ],
+    [ "kKeyAdditionalCommissioningMaxLength", "_txt_fields_8h.html#aa15404df5a9d9b85097aa21a6b12d1e5", null ],
+    [ "kKeyCommissioningModeMaxLength", "_txt_fields_8h.html#a827bf5c9f5ec9d4d05c9529b4e6bab1e", null ],
+    [ "kKeyDeviceNameMaxLength", "_txt_fields_8h.html#a0e92508a5ff0e6b76c5d0a82e1b99d2b", null ],
+    [ "kKeyDeviceTypeMaxLength", "_txt_fields_8h.html#ada134621f84a3eeb513ea50157f2ba66", null ],
+    [ "kKeyDiscriminatorMaxLength", "_txt_fields_8h.html#aeeb32e95bbb9344fd2bdc8f357ca9a04", null ],
+    [ "kKeyPairingHintMaxLength", "_txt_fields_8h.html#a9ed00c4b589e2d1936c116198c7c332b", null ],
+    [ "kKeyPairingInstructionMaxLength", "_txt_fields_8h.html#af48d621600d3984ad17009a5542337ac", null ],
+    [ "kKeyRotatingIdMaxLength", "_txt_fields_8h.html#a3d1cc22b1f7e94518e0a859381994a28", null ],
+    [ "kKeyTcpSupportMaxLength", "_txt_fields_8h.html#acfcff942c4c34e9c7baf42f5499bbd64", null ],
+    [ "kKeyVendorProductMaxLength", "_txt_fields_8h.html#a2236523a37b6b993356e111b1a8e3f18", null ],
+    [ "kMaxRetryInterval", "_txt_fields_8h.html#a2785b604b8d824c1c0b3dfed95034250", null ],
+    [ "kTxtRetryIntervalActiveMaxLength", "_txt_fields_8h.html#a0f8be992fed2c205cbf95927ed3bc6dd", null ],
+    [ "kTxtRetryIntervalIdleMaxLength", "_txt_fields_8h.html#a189abb141327566da7793d699ca70f18", null ],
+    [ "txtFieldInfo", "_txt_fields_8h.html#ae982e9139a87e4c6beb6c5142b15ba23", null ]
+];

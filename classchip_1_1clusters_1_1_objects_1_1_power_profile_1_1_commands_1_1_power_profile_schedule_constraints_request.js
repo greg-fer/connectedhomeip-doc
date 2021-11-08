@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_power_profile_1_1_commands_1_1_power_profile_schedule_constraints_request =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_power_profile_1_1_commands_1_1_power_profile_schedule_constraints_request.html#accf4ee54b96e223b31e50352fba73a76", null ]
+];

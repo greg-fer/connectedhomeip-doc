@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_fecal_coliform_and_e_coli_concentration_measurement_1_1_attributes_1_1_max_measured_value =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_fecal_coliform_and_e_coli_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a9bc33d3276553e51b1a115054ddd0d46", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_fecal_coliform_and_e_coli_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a8a541c5218a0518c372299cc0c5d026a", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_fecal_coliform_and_e_coli_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a45a036dd76feaf5a2d0381476dc66d07", null ]
+];

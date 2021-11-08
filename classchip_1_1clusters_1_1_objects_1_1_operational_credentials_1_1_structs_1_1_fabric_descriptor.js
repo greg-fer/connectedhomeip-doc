@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_operational_credentials_1_1_structs_1_1_fabric_descriptor =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_operational_credentials_1_1_structs_1_1_fabric_descriptor.html#ac73f205b1775d3db7221987265edde8b", null ]
+];

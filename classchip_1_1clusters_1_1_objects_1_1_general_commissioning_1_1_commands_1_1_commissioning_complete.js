@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_general_commissioning_1_1_commands_1_1_commissioning_complete =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_general_commissioning_1_1_commands_1_1_commissioning_complete.html#a01d79c4997b3a281ec4cbe6a6a3d43e3", null ]
+];

@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_fluoride_concentration_measurement_1_1_attributes_1_1_max_measured_value =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_fluoride_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a4899e08789b2944658ab60c8a3739eef", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_fluoride_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a00569d87ff9c90fff79493dc430b39e9", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_fluoride_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a8bacfbf71e29f54103c1d53f43f9776e", null ]
+];

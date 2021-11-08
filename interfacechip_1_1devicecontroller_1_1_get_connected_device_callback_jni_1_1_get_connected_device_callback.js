@@ -1,0 +1,5 @@
+var interfacechip_1_1devicecontroller_1_1_get_connected_device_callback_jni_1_1_get_connected_device_callback =
+[
+    [ "onConnectionFailure", "interfacechip_1_1devicecontroller_1_1_get_connected_device_callback_jni_1_1_get_connected_device_callback.html#a0ed549750412ae7c916c6380016d1b67", null ],
+    [ "onDeviceConnected", "interfacechip_1_1devicecontroller_1_1_get_connected_device_callback_jni_1_1_get_connected_device_callback.html#aa10a8712e9690f6b30723e91a0d7fa45", null ]
+];

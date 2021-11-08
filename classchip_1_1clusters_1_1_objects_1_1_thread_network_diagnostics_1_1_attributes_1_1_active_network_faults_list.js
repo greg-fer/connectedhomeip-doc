@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_thread_network_diagnostics_1_1_attributes_1_1_active_network_faults_list =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_thread_network_diagnostics_1_1_attributes_1_1_active_network_faults_list.html#a14def5456f931414e8f4ee9dd17330c1", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_thread_network_diagnostics_1_1_attributes_1_1_active_network_faults_list.html#a4e57316b79c38fe822657caab798c5f3", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_thread_network_diagnostics_1_1_attributes_1_1_active_network_faults_list.html#ae10a866f226c4876c4a9ae90dc32ebd4", null ]
+];

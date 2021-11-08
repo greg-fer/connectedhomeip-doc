@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_measured_phase3rd_harmonic_current =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_measured_phase3rd_harmonic_current.html#af7fd8c0558534fa484568e31f5703477", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_measured_phase3rd_harmonic_current.html#a6415d7813b292eee8ce9af26c27c8958", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_measured_phase3rd_harmonic_current.html#a0e13421fed2416b8d42b55c470e8e660", null ]
+];

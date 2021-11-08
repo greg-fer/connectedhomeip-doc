@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_bridged_actions_1_1_commands_1_1_disable_action_with_duration =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_bridged_actions_1_1_commands_1_1_disable_action_with_duration.html#a42957f1e9683c7f1eba5b7c19db840fe", null ]
+];

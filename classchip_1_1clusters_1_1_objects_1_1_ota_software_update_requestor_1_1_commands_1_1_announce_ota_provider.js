@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_ota_software_update_requestor_1_1_commands_1_1_announce_ota_provider =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_ota_software_update_requestor_1_1_commands_1_1_announce_ota_provider.html#a1a9ab97fa0af35d3fc8737c123278536", null ]
+];

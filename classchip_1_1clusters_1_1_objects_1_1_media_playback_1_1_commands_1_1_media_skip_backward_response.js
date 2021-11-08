@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_media_playback_1_1_commands_1_1_media_skip_backward_response =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_media_playback_1_1_commands_1_1_media_skip_backward_response.html#aff50c3b4c9bec5917cf202fb43447581", null ]
+];

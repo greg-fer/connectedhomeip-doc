@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_test_cluster_1_1_commands_1_1_test_list_int8_u_argument_request =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_test_cluster_1_1_commands_1_1_test_list_int8_u_argument_request.html#af1e28b013e24c018cdea72868992446d", null ]
+];

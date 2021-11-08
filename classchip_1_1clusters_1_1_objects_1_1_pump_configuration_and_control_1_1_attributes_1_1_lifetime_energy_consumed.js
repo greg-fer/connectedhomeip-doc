@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_pump_configuration_and_control_1_1_attributes_1_1_lifetime_energy_consumed =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_pump_configuration_and_control_1_1_attributes_1_1_lifetime_energy_consumed.html#adba06e04638cf6f4b916c6c3dfb98dc5", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_pump_configuration_and_control_1_1_attributes_1_1_lifetime_energy_consumed.html#ab2386145521ad68db631bace589550b8", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_pump_configuration_and_control_1_1_attributes_1_1_lifetime_energy_consumed.html#a846bba22fd88fe70654c246032cfa43d", null ]
+];

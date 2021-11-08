@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_administrator_commissioning_1_1_commands_1_1_revoke_commissioning =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_administrator_commissioning_1_1_commands_1_1_revoke_commissioning.html#a7c589df5131d0ff285f803c29d7ad5ca", null ]
+];

@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_ultrasonic_unoccupied_to_occupied_threshold =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_ultrasonic_unoccupied_to_occupied_threshold.html#af31eee564c692571bc7a51d4793a50d5", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_ultrasonic_unoccupied_to_occupied_threshold.html#a2b153560332ff170319bdb710d5dc284", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_ultrasonic_unoccupied_to_occupied_threshold.html#a18a46e37323ac5e871bae8228b3380e3", null ]
+];

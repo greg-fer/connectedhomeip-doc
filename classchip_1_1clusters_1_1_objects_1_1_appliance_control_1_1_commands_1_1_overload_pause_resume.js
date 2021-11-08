@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_appliance_control_1_1_commands_1_1_overload_pause_resume =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_appliance_control_1_1_commands_1_1_overload_pause_resume.html#afce988bbe15b880d785f84e5e10cfb28", null ]
+];

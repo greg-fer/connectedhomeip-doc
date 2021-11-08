@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_total_trihalomethanes_concentration_measurement_1_1_attributes_1_1_max_measured_value =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_total_trihalomethanes_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a63e384044af735a7cc1c4d7985c8e64b", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_total_trihalomethanes_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#afa2300aa99ddde31fedfa728d63f280a", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_total_trihalomethanes_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a8b3d5695632a98b1bbc6efd4405a74c7", null ]
+];

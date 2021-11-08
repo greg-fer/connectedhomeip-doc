@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_application_launcher_1_1_commands_1_1_launch_app_response =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_application_launcher_1_1_commands_1_1_launch_app_response.html#af7da98345e2e4c8ee2319acf2962b91d", null ]
+];

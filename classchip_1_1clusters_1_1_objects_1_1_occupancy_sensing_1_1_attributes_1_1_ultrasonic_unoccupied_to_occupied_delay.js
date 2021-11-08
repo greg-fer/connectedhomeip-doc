@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_ultrasonic_unoccupied_to_occupied_delay =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_ultrasonic_unoccupied_to_occupied_delay.html#a09a68fad4316ae742fc5682f39143ba8", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_ultrasonic_unoccupied_to_occupied_delay.html#afa00de4da649b505cfad27ee83b8a747", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_ultrasonic_unoccupied_to_occupied_delay.html#aa344d60ce07761aa9ee6b441012d9d42", null ]
+];

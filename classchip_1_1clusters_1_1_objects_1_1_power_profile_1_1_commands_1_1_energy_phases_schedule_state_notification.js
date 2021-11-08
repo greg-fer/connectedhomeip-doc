@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_power_profile_1_1_commands_1_1_energy_phases_schedule_state_notification =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_power_profile_1_1_commands_1_1_energy_phases_schedule_state_notification.html#a32bd144b10f6cf062926bf4ac8220634", null ]
+];

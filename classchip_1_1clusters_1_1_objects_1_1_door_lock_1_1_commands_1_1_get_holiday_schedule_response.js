@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_door_lock_1_1_commands_1_1_get_holiday_schedule_response =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_door_lock_1_1_commands_1_1_get_holiday_schedule_response.html#a67bd6022fff28318d460e7f23b26dac4", null ]
+];

@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_rms_extreme_under_voltage_period_phase_b =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_rms_extreme_under_voltage_period_phase_b.html#a8c903aca0f511db0b70a5ce0193c5c43", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_rms_extreme_under_voltage_period_phase_b.html#afdf792ac9d42cdf52d1132e351dad51d", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_rms_extreme_under_voltage_period_phase_b.html#ad5aaa1d8852e2e0e6cc1dd6af53030e0", null ]
+];

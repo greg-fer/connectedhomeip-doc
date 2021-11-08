@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_thermostat_user_interface_configuration_1_1_attributes_1_1_keypad_lockout =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_thermostat_user_interface_configuration_1_1_attributes_1_1_keypad_lockout.html#adbb8e1f6ccc8c248cb31c9e5040c3666", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_thermostat_user_interface_configuration_1_1_attributes_1_1_keypad_lockout.html#ac1782ddec9b7213683b0a61b08f9eb25", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_thermostat_user_interface_configuration_1_1_attributes_1_1_keypad_lockout.html#a77e04a28d651e549be190e61ede423e0", null ]
+];

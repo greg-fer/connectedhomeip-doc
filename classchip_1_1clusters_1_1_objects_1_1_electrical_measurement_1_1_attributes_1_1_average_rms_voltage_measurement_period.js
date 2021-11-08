@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_average_rms_voltage_measurement_period =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_average_rms_voltage_measurement_period.html#a368977f2796e2d10895f0ab241497c44", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_average_rms_voltage_measurement_period.html#ab3f0968a09f84fd4f282188cd0bd2216", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_average_rms_voltage_measurement_period.html#a2930d81f8efab4fc974efa2d38f4dfcf", null ]
+];

@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_physical_contact_unoccupied_to_occupied_delay =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_physical_contact_unoccupied_to_occupied_delay.html#ac5571b02b5db86e2bf6b9506023a5d04", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_physical_contact_unoccupied_to_occupied_delay.html#aaeac9f9c5847db6f6d482b2c13a0ba7c", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_occupancy_sensing_1_1_attributes_1_1_physical_contact_unoccupied_to_occupied_delay.html#a4dc8dbc43b4ef7e9a85f597c44a4be62", null ]
+];

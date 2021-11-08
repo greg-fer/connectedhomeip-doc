@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_bromodichloromethane_concentration_measurement_1_1_attributes_1_1_max_measured_value =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_bromodichloromethane_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#aedb1dfce7711bcc726411f64dbf3c25a", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_bromodichloromethane_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a65098f2c8c9720f54cf8076594a28702", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_bromodichloromethane_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#ac9a46f7e60b4ddeffad408fd408916f8", null ]
+];

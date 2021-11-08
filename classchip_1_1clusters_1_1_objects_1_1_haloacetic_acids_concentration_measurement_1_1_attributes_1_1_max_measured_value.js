@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_haloacetic_acids_concentration_measurement_1_1_attributes_1_1_max_measured_value =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_haloacetic_acids_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a7d0de09fe682c60046382a3c55d605d6", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_haloacetic_acids_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#afafafc8140dadf5964c90585144d2c6c", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_haloacetic_acids_concentration_measurement_1_1_attributes_1_1_max_measured_value.html#a981da3123dbf9f3a5b18111e432e622a", null ]
+];

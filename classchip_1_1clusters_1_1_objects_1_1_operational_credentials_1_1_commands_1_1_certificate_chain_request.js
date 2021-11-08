@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_operational_credentials_1_1_commands_1_1_certificate_chain_request =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_operational_credentials_1_1_commands_1_1_certificate_chain_request.html#a4e40acdcef0bd24c6277cf8bb037879c", null ]
+];

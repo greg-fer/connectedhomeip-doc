@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_min_temp_experienced =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_min_temp_experienced.html#a16114308c89313f8dcb45388f98f850b", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_min_temp_experienced.html#a4e6aaf0604cf83bb1942fd61e48d5437", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_device_temperature_configuration_1_1_attributes_1_1_min_temp_experienced.html#a8bfde388aca26f0bf8817c8c590e3c04", null ]
+];

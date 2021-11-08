@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_content_launcher_1_1_structs_1_1_content_launch_additional_info =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_content_launcher_1_1_structs_1_1_content_launch_additional_info.html#a84d2ed727c67f7cf8e6da405c292327d", null ]
+];

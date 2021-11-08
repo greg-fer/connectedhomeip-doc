@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_thermostat_user_interface_configuration_1_1_attributes_1_133d553cd839d6a1fe2df009e37dd6a14 =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_thermostat_user_interface_configuration_1_1_attributes_1_133d553cd839d6a1fe2df009e37dd6a14.html#abfef1d22fe2d368510df74712b391209", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_thermostat_user_interface_configuration_1_1_attributes_1_133d553cd839d6a1fe2df009e37dd6a14.html#af15997cf7925f3b4915d568779e03fba", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_thermostat_user_interface_configuration_1_1_attributes_1_133d553cd839d6a1fe2df009e37dd6a14.html#add4e553fc50af6b06dbe574e551945be", null ]
+];

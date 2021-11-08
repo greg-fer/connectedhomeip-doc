@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_operational_credentials_1_1_commands_1_1_remove_trusted_root_certificate =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_operational_credentials_1_1_commands_1_1_remove_trusted_root_certificate.html#a3564368ad3ec9fd5483bfd4eec24c23c", null ]
+];

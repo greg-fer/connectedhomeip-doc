@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_door_lock_1_1_commands_1_1_get_yearday_schedule_response =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_door_lock_1_1_commands_1_1_get_yearday_schedule_response.html#afcc69648e6b56926593153861e5c1b39", null ]
+];

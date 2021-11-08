@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_haloacetic_acids_concentration_measurement_1_1_attributes_1_1_feature_map =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_haloacetic_acids_concentration_measurement_1_1_attributes_1_1_feature_map.html#a538b89fc40affaeea9cf9c827c357b12", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_haloacetic_acids_concentration_measurement_1_1_attributes_1_1_feature_map.html#a17fd8ed5bfd76a91ec24a1b5353a4a89", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_haloacetic_acids_concentration_measurement_1_1_attributes_1_1_feature_map.html#a6063b7909691346fd139e594fd9602da", null ]
+];

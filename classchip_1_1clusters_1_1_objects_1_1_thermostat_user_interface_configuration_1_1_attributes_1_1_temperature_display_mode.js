@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_thermostat_user_interface_configuration_1_1_attributes_1_1_temperature_display_mode =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_thermostat_user_interface_configuration_1_1_attributes_1_1_temperature_display_mode.html#ab26717d0052d89a5cbdf29511aa4da0e", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_thermostat_user_interface_configuration_1_1_attributes_1_1_temperature_display_mode.html#afed216ed63d7decfa4f4eeea97a909b1", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_thermostat_user_interface_configuration_1_1_attributes_1_1_temperature_display_mode.html#a3247ed67a4a7749c39ed7fbd3108f7ea", null ]
+];

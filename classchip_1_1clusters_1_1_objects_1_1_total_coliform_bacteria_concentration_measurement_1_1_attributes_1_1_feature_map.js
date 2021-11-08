@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_total_coliform_bacteria_concentration_measurement_1_1_attributes_1_1_feature_map =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_total_coliform_bacteria_concentration_measurement_1_1_attributes_1_1_feature_map.html#a9883dabbe62f1b16bb63711a086f9f84", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_total_coliform_bacteria_concentration_measurement_1_1_attributes_1_1_feature_map.html#ade240cf28203f2c7ec28a33ad57f7504", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_total_coliform_bacteria_concentration_measurement_1_1_attributes_1_1_feature_map.html#aadf6479b961541da3b6cc8dcea2c6361", null ]
+];

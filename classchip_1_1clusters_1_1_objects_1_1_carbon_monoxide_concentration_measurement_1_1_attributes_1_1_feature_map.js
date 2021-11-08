@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_carbon_monoxide_concentration_measurement_1_1_attributes_1_1_feature_map =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_carbon_monoxide_concentration_measurement_1_1_attributes_1_1_feature_map.html#acdf1ffa4d94cb48931de560289aaf1c4", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_carbon_monoxide_concentration_measurement_1_1_attributes_1_1_feature_map.html#a75054ae0219990c933aee6b55595484d", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_carbon_monoxide_concentration_measurement_1_1_attributes_1_1_feature_map.html#ad5c5b566041cdc805c953dbc007e092e", null ]
+];

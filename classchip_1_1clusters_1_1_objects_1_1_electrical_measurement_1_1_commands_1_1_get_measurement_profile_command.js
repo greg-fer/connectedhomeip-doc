@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_commands_1_1_get_measurement_profile_command =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_commands_1_1_get_measurement_profile_command.html#a5d384d18742c1b19c9caf400ebf2bf7b", null ]
+];

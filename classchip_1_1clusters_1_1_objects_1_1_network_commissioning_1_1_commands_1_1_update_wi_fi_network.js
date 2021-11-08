@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_network_commissioning_1_1_commands_1_1_update_wi_fi_network =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_network_commissioning_1_1_commands_1_1_update_wi_fi_network.html#ad2986740b51c59d751228bca261663c8", null ]
+];

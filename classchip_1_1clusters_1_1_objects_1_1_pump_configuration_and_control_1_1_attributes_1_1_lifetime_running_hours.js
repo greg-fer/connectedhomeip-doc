@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_pump_configuration_and_control_1_1_attributes_1_1_lifetime_running_hours =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_pump_configuration_and_control_1_1_attributes_1_1_lifetime_running_hours.html#a7e6bfe2ebc6f3fa0bd5ce161b48c6d90", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_pump_configuration_and_control_1_1_attributes_1_1_lifetime_running_hours.html#a19c189697433ab80e68b6ce8dd6d06c0", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_pump_configuration_and_control_1_1_attributes_1_1_lifetime_running_hours.html#a964a7ae15e671cd6bff208c8ef1e2d3f", null ]
+];

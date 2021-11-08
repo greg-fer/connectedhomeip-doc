@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_thread_network_diagnostics_1_1_attributes_1_1_rx_err_unknown_neighbor_count =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_thread_network_diagnostics_1_1_attributes_1_1_rx_err_unknown_neighbor_count.html#ad1ff79013b8966b428632be2695b5241", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_thread_network_diagnostics_1_1_attributes_1_1_rx_err_unknown_neighbor_count.html#a7bb50d1e28c1d0f266ff7a6d29975d68", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_thread_network_diagnostics_1_1_attributes_1_1_rx_err_unknown_neighbor_count.html#adba62ad49c411aff8343002e7e9c1f70", null ]
+];

@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_thread_network_diagnostics_1_1_attributes_1_1_tx_direct_max_retry_expiry_count =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_thread_network_diagnostics_1_1_attributes_1_1_tx_direct_max_retry_expiry_count.html#a9ea3e1ebce2265708bf87b18327947a2", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_thread_network_diagnostics_1_1_attributes_1_1_tx_direct_max_retry_expiry_count.html#a436bc094881a133664d6fda699f5b839", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_thread_network_diagnostics_1_1_attributes_1_1_tx_direct_max_retry_expiry_count.html#ad27e9c6f0de774bd682769c9844494d3", null ]
+];

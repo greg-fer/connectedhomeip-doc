@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_barrier_control_1_1_commands_1_1_barrier_control_go_to_percent =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_barrier_control_1_1_commands_1_1_barrier_control_go_to_percent.html#a9773c609504075dd3e4ebb2a30e30b50", null ]
+];

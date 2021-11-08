@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_power_configuration_1_1_attributes_1_1_battery3_percentage_min_threshold =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_power_configuration_1_1_attributes_1_1_battery3_percentage_min_threshold.html#a8362ac1d75618bbcc7656ba82b426dc6", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_power_configuration_1_1_attributes_1_1_battery3_percentage_min_threshold.html#a41b1a0837d54728bebaf52b661d4ad38", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_power_configuration_1_1_attributes_1_1_battery3_percentage_min_threshold.html#a0f9527b6fcb004703d2702ab7963969e", null ]
+];

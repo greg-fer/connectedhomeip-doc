@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_objects_1_1_appliance_statistics_1_1_commands_1_1_statistics_available =
+[
+    [ "descriptor", "classchip_1_1clusters_1_1_objects_1_1_appliance_statistics_1_1_commands_1_1_statistics_available.html#ae851337068f29b437b45e55b3b4949a6", null ]
+];

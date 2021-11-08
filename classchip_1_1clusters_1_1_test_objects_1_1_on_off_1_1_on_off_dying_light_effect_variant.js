@@ -1,0 +1,4 @@
+var classchip_1_1clusters_1_1_test_objects_1_1_on_off_1_1_on_off_dying_light_effect_variant =
+[
+    [ "k20PercenterDimUpIn0p5SecondsThenFadeToOffIn1Second", "classchip_1_1clusters_1_1_test_objects_1_1_on_off_1_1_on_off_dying_light_effect_variant.html#a0d1d05ff3796ed20818d808508872609", null ]
+];

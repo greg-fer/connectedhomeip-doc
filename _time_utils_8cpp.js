@@ -1,0 +1,25 @@
+var _time_utils_8cpp =
+[
+    [ "__STDC_LIMIT_MACROS", "_time_utils_8cpp.html#aeb7e7a856ab7a794b05b6b63ef36ea3e", null ],
+    [ "kDaysFromMarch1ToDecember31", "_time_utils_8cpp.html#ad071bd5c09780725aa567ddbdf10012ba4d8fbbde66a76541f9bae6220031a874", null ],
+    [ "kYearsPerCycle", "_time_utils_8cpp.html#ad071bd5c09780725aa567ddbdf10012ba2c7b82fcdfc2dd60ee82c968c35fcce3", null ],
+    [ "kDaysPerCycle", "_time_utils_8cpp.html#ad071bd5c09780725aa567ddbdf10012ba0403c63943f09d0ec2fa2a24568a89a3", null ],
+    [ "kEpochOffsetDays", "_time_utils_8cpp.html#ad071bd5c09780725aa567ddbdf10012babbc47f1ba78fbd9cb3294fb6d700b729", null ],
+    [ "AdjustCalendarDate", "_time_utils_8cpp.html#a2d8757e10f72f2d3e980f0af4a06400c", null ],
+    [ "CalendarDateToDaysSinceUnixEpoch", "_time_utils_8cpp.html#a5ced83c795d461d8ed4f749f11606c72", null ],
+    [ "CalendarDateToOrdinalDate", "_time_utils_8cpp.html#aa07b0a60010e01edb521e2162275fbeb", null ],
+    [ "CalendarTimeToSecondsSinceUnixEpoch", "_time_utils_8cpp.html#a89107cd8e70918f2bf11411e37ee0c9d", null ],
+    [ "CalendarToChipEpochTime", "_time_utils_8cpp.html#ac9d837d59210d849109bffea165aa4da", null ],
+    [ "ChipEpochToCalendarTime", "_time_utils_8cpp.html#aebb6cdcb55735c8ed14b2668af79a525", null ],
+    [ "DaysInMonth", "_time_utils_8cpp.html#af5bf15d4665381c3f8641ef1391dc948", null ],
+    [ "DaysSinceUnixEpochToCalendarDate", "_time_utils_8cpp.html#a8b3191bec008deaeddeed326533e8aa2", null ],
+    [ "DaysToMarch1", "_time_utils_8cpp.html#a962fab3afa5acf642f9a456afa69e2d8", null ],
+    [ "FirstWeekdayOfYear", "_time_utils_8cpp.html#a64a93639eedf1b89f0a3722cdfaf9a5f", null ],
+    [ "IsLeapYear", "_time_utils_8cpp.html#a3419207f13f8e6e4949114c5e67941db", null ],
+    [ "MarchBasedDayOfYearToMonth", "_time_utils_8cpp.html#ac64dc76d077901bc2ea4b9fb0adf7229", null ],
+    [ "MarchBasedMonthToDayOfYear", "_time_utils_8cpp.html#ad7141c66fd1e2b3f562588d02a865085", null ],
+    [ "OrdinalDateToCalendarDate", "_time_utils_8cpp.html#a506aa9f5294beef35bde801a719f29b5", null ],
+    [ "SecondsSinceUnixEpochToCalendarTime", "_time_utils_8cpp.html#a73b1f983b14970e81e112225599d8e4a", null ],
+    [ "SecondsSinceUnixEpochToCalendarTime", "_time_utils_8cpp.html#a5e2dfd796edf8bdbd64cbff8e0ab8b80", null ],
+    [ "UnixEpochToChipEpochTime", "_time_utils_8cpp.html#aa0621e1499ac2e2242fd7106cbb0bbb5", null ]
+];

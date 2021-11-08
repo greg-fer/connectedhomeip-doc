@@ -1,0 +1,6 @@
+var classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_rms_extreme_over_voltage_period_phase_b =
+[
+    [ "attribute_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_rms_extreme_over_voltage_period_phase_b.html#ae2a75bfbc64b655832951aa76eaedf68", null ],
+    [ "attribute_type", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_rms_extreme_over_voltage_period_phase_b.html#a88d26095e5859d4b0382eac8902c1c51", null ],
+    [ "cluster_id", "classchip_1_1clusters_1_1_objects_1_1_electrical_measurement_1_1_attributes_1_1_rms_extreme_over_voltage_period_phase_b.html#aef72cd09804e7dc8e4793258b82c5901", null ]
+];
